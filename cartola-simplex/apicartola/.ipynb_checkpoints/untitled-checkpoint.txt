@@ -1,0 +1,9 @@
+Links:
+
+api_url = "https://api.cartolafc.globo.com"
+
+'{api_url}/mercado/status'
+'{api_url}/atletas/mercado'
+'{api_url}/atletas/pontuados'
+'{api_url}/partidas/{rodada}
+'{api_url}/pos-rodada/destaques'
