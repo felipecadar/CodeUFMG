@@ -1,0 +1,1 @@
+python3 src/main.py -i $1 -lr $2 -y $3 -e $4 -n $5 -s

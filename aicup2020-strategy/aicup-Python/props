@@ -1,0 +1,172 @@
+
+EntityType.WALL
+size: 1
+build_score: 10
+destroy_score: 100
+can_move: False
+population_provide: 0
+population_use: 0
+max_health: 10
+cost: 10
+sight_range: 10
+resource_per_health: 0
+build: None
+attack: None
+repair: None
+
+EntityType.HOUSE
+size: 3
+build_score: 50
+destroy_score: 500
+can_move: False
+population_provide: 5
+population_use: 0
+max_health: 20
+cost: 50
+sight_range: 10
+resource_per_health: 0
+build: None
+attack: None
+repair: None
+
+EntityType.BUILDER_BASE
+size: 5
+build_score: 500
+destroy_score: 5000
+can_move: False
+population_provide: 5
+population_use: 0
+max_health: 100
+cost: 500
+sight_range: 10
+resource_per_health: 0
+build:
+--> options: [<EntityType.BUILDER_UNIT: 3>]
+--> init_health: None
+attack: None
+repair: None
+
+EntityType.BUILDER_UNIT
+size: 1
+build_score: 10
+destroy_score: 100
+can_move: True
+population_provide: 0
+population_use: 1
+max_health: 10
+cost: 10
+sight_range: 10
+resource_per_health: 0
+build:
+--> options: [<EntityType.HOUSE: 1>, <EntityType.WALL: 0>, <EntityType.BUILDER_BASE: 2>, <EntityType.MELEE_BASE: 4>, <EntityType.RANGED_BASE: 6>, <EntityType.TURRET: 9>]
+--> init_health: 5
+attack:
+--> attack_range: 1
+--> damage: 1
+--> collect_resource: True
+repair:
+--> valid_targets: [<EntityType.HOUSE: 1>, <EntityType.WALL: 0>, <EntityType.BUILDER_BASE: 2>, <EntityType.MELEE_BASE: 4>, <EntityType.RANGED_BASE: 6>, <EntityType.TURRET: 9>]
+--> power: 5
+
+EntityType.MELEE_BASE
+size: 5
+build_score: 500
+destroy_score: 5000
+can_move: False
+population_provide: 5
+population_use: 0
+max_health: 100
+cost: 500
+sight_range: 10
+resource_per_health: 0
+build:
+--> options: [<EntityType.MELEE_UNIT: 5>]
+--> init_health: None
+attack: None
+repair: None
+
+EntityType.MELEE_UNIT
+size: 1
+build_score: 20
+destroy_score: 200
+can_move: True
+population_provide: 0
+population_use: 1
+max_health: 20
+cost: 20
+sight_range: 10
+resource_per_health: 0
+build: None
+attack:
+--> attack_range: 1
+--> damage: 5
+--> collect_resource: False
+repair: None
+
+EntityType.RANGED_BASE
+size: 5
+build_score: 500
+destroy_score: 5000
+can_move: False
+population_provide: 5
+population_use: 0
+max_health: 100
+cost: 500
+sight_range: 10
+resource_per_health: 0
+build:
+--> options: [<EntityType.RANGED_UNIT: 7>]
+--> init_health: None
+attack: None
+repair: None
+
+EntityType.RANGED_UNIT
+size: 1
+build_score: 30
+destroy_score: 300
+can_move: True
+population_provide: 0
+population_use: 1
+max_health: 10
+cost: 30
+sight_range: 10
+resource_per_health: 0
+build: None
+attack:
+--> attack_range: 5
+--> damage: 5
+--> collect_resource: False
+repair: None
+
+EntityType.RESOURCE
+size: 1
+build_score: 0
+destroy_score: 0
+can_move: False
+population_provide: 0
+population_use: 0
+max_health: 15
+cost: 0
+sight_range: 0
+resource_per_health: 1
+build: None
+attack: None
+repair: None
+
+EntityType.TURRET
+size: 2
+build_score: 200
+destroy_score: 2000
+can_move: False
+population_provide: 0
+population_use: 0
+max_health: 50
+cost: 200
+sight_range: 10
+resource_per_health: 0
+build: None
+attack:
+--> attack_range: 5
+--> damage: 5
+--> collect_resource: False
+repair: None
