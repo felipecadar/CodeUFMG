@@ -1,0 +1,428 @@
+1
+America 3 1 4 4
+Flamengo 3 1 3 3
+Atletico-PR 3 1 2 3
+Corinthians 3 1 1 2
+Coritiba 3 1 1 1
+Cruzeiro 3 1 1 1
+Chapecoense 1 0 0 2
+Santa Cruz 1 0 0 2
+Atletico-MG 1 0 0 0
+Botafogo 1 0 0 0
+Figueirense 1 0 0 0
+Gremio 1 0 0 0
+Santos 1 0 0 0
+Sport 1 0 0 0
+Ponte Preta 0 0 -1 1
+Internacional 0 0 -1 0
+Palmeiras 0 0 -1 0
+Sao Paulo 0 0 -2 1
+Fluminense 0 0 -3 0
+Vitoria 0 0 -4 0
+2
+Coritiba 6 2 3 4
+Cruzeiro 6 2 2 2
+Sport 4 1 5 5
+Flamengo 4 1 3 4
+Atletico-PR 4 1 2 4
+Santos 4 1 1 1
+Internacional 3 1 1 3
+Ponte Preta 3 1 0 2
+America 3 1 -1 4
+Corinthians 3 1 -1 3
+Vitoria 3 1 -3 1
+Santa Cruz 2 0 0 3
+Chapecoense 2 0 0 2
+Figueirense 2 0 0 1
+Atletico-MG 1 0 -1 0
+Botafogo 1 0 -1 0
+Palmeiras 1 0 -1 0
+Gremio 1 0 -2 1
+Sao Paulo 0 0 -3 1
+Fluminense 0 0 -4 0
+3
+Sport 7 2 6 7
+Coritiba 7 2 3 4
+America 6 2 1 7
+Cruzeiro 6 2 1 2
+Corinthians 6 2 0 4
+Vitoria 6 2 -2 3
+Flamengo 5 1 3 4
+Atletico-PR 5 1 2 4
+Figueirense 5 1 1 2
+Atletico-MG 4 1 2 3
+Internacional 4 1 1 3
+Santos 4 1 0 2
+Ponte Preta 3 1 -3 2
+Chapecoense 3 0 0 2
+Santa Cruz 2 0 -1 4
+Botafogo 2 0 -1 0
+Palmeiras 2 0 -1 0
+Gremio 2 0 -2 1
+Sao Paulo 0 0 -5 2
+Fluminense 0 0 -5 0
+4
+Sport 8 2 6 7
+Flamengo 8 2 6 7
+Atletico-PR 8 2 3 5
+Coritiba 8 2 3 4
+Figueirense 8 2 2 4
+Internacional 7 2 2 4
+Santos 7 2 1 3
+Cruzeiro 7 2 1 2
+America 6 2 0 7
+Corinthians 6 2 -1 5
+Vitoria 6 2 -4 3
+Botafogo 5 1 2 3
+Palmeiras 5 1 1 2
+Santa Cruz 5 1 0 5
+Atletico-MG 4 1 1 3
+Ponte Preta 4 1 -3 2
+Chapecoense 3 0 -3 2
+Gremio 2 0 -3 1
+Sao Paulo 0 0 -6 2
+Fluminense 0 0 -8 0
+5
+Atletico-PR 11 3 4 7
+Figueirense 11 3 3 5
+Corinthians 9 3 2 8
+Sport 9 2 6 8
+Flamengo 8 2 5 8
+Internacional 8 2 2 5
+Coritiba 8 2 0 4
+Atletico-MG 7 2 3 6
+America 7 2 0 7
+Ponte Preta 7 2 0 5
+Cruzeiro 7 2 -1 2
+Santos 7 2 -2 3
+Vitoria 7 2 -4 4
+Santa Cruz 6 1 0 5
+Chapecoense 6 1 -1 4
+Botafogo 5 1 1 3
+Palmeiras 5 1 -3 2
+Sao Paulo 3 1 -2 6
+Gremio 3 0 -3 2
+Fluminense 0 0 -10 1
+6
+Figueirense 11 3 2 6
+Atletico-PR 11 3 1 8
+Atletico-MG 10 3 4 8
+Cruzeiro 10 3 2 6
+Ponte Preta 10 3 1 7
+Santos 10 3 -1 4
+Corinthians 9 3 0 8
+Flamengo 9 2 5 9
+Sport 9 2 4 8
+Chapecoense 9 2 1 6
+Botafogo 8 2 2 6
+Internacional 8 2 1 5
+Coritiba 8 2 -1 6
+Palmeiras 8 2 -2 3
+Vitoria 8 2 -4 5
+America 7 2 -1 8
+Santa Cruz 6 1 -1 5
+Sao Paulo 4 1 -2 9
+Gremio 4 0 -3 5
+Fluminense 3 1 -8 3
+7
+Figueirense 14 4 7 11
+Ponte Preta 13 4 5 12
+Chapecoense 12 3 3 8
+Atletico-PR 12 3 1 9
+Coritiba 11 3 0 7
+Vitoria 11 3 -1 9
+Palmeiras 11 3 -1 6
+Atletico-MG 10 3 3 8
+Corinthians 10 3 0 9
+Cruzeiro 10 3 -1 7
+Santos 10 3 -3 5
+Flamengo 9 2 0 9
+Sport 9 2 -1 8
+Botafogo 8 2 0 6
+Internacional 8 2 -3 6
+Sao Paulo 7 2 3 14
+America 7 2 -2 10
+Gremio 7 1 -2 6
+Fluminense 6 2 -6 6
+Santa Cruz 6 1 -2 5
+8
+Ponte Preta 16 5 6 13
+Figueirense 15 4 7 12
+Palmeiras 14 4 2 9
+Atletico-MG 13 4 4 9
+Cruzeiro 13 4 1 9
+Atletico-PR 13 3 1 9
+Flamengo 12 3 4 14
+Chapecoense 12 3 2 8
+Coritiba 12 3 0 8
+Vitoria 12 3 -1 9
+Corinthians 11 3 0 9
+Santos 11 3 -3 6
+Sport 10 2 -1 9
+Botafogo 9 2 0 6
+Internacional 9 2 -3 6
+America 8 2 -2 10
+Sao Paulo 7 2 1 14
+Gremio 7 1 -5 6
+Fluminense 6 2 -7 6
+Santa Cruz 6 1 -6 6
+9
+Ponte Preta 19 6 7 14
+Palmeiras 17 5 3 12
+Atletico-PR 16 4 2 12
+Figueirense 15 4 6 12
+Coritiba 15 4 2 10
+Atletico-MG 13 4 3 11
+Cruzeiro 13 4 -2 9
+Sport 13 3 1 11
+Vitoria 13 3 -1 9
+Flamengo 12 3 3 16
+Corinthians 12 3 0 9
+Chapecoense 12 3 0 8
+Santos 11 3 -5 6
+Botafogo 10 2 0 6
+Internacional 10 2 -3 9
+America 9 2 -2 10
+Santa Cruz 9 2 -3 9
+Sao Paulo 8 2 1 14
+Gremio 8 1 -5 6
+Fluminense 7 2 -7 9
+10
+Ponte Preta 20 6 7 14
+Atletico-PR 19 5 4 14
+Palmeiras 18 5 3 14
+Figueirense 16 4 6 12
+Coritiba 16 4 2 10
+Vitoria 16 4 0 10
+Chapecoense 15 4 1 10
+Cruzeiro 14 4 -2 11
+Atletico-MG 13 4 2 11
+Sport 13 3 -1 11
+Flamengo 12 3 2 16
+America 12 3 -1 11
+Corinthians 12 3 -1 10
+Santa Cruz 12 3 -2 11
+Sao Paulo 11 3 2 15
+Santos 11 3 -6 7
+Internacional 11 2 -3 9
+Gremio 11 2 -4 7
+Botafogo 10 2 -1 6
+Fluminense 7 2 -8 9
+11
+Atletico-PR 22 6 7 17
+Ponte Preta 21 6 7 14
+Palmeiras 21 6 4 16
+Figueirense 17 4 6 12
+Coritiba 17 4 2 10
+Vitoria 17 4 0 10
+Chapecoense 16 4 1 10
+Flamengo 15 4 3 17
+Sao Paulo 14 4 4 17
+Cruzeiro 14 4 -4 11
+Sport 14 3 -1 11
+Gremio 14 3 -2 9
+Atletico-MG 13 4 0 11
+Botafogo 13 3 1 8
+America 12 3 -2 11
+Corinthians 12 3 -2 11
+Santa Cruz 12 3 -4 11
+Internacional 12 2 -3 9
+Santos 11 3 -9 7
+Fluminense 8 2 -8 9
+12
+Atletico-PR 23 6 7 17
+Ponte Preta 22 6 7 14
+Palmeiras 21 6 3 16
+Figueirense 18 4 6 13
+Coritiba 17 4 1 10
+Sport 17 4 0 13
+Gremio 17 4 -1 10
+Vitoria 17 4 -5 10
+Atletico-MG 16 5 1 12
+Flamengo 16 4 3 17
+Botafogo 16 4 2 9
+Chapecoense 16 4 0 10
+Cruzeiro 15 4 -4 11
+Internacional 15 3 -2 10
+Sao Paulo 14 4 3 18
+Santos 14 4 -4 12
+America 13 3 -2 12
+Corinthians 12 3 -3 11
+Santa Cruz 12 3 -5 11
+Fluminense 11 3 -7 10
+13
+Atletico-PR 23 6 5 17
+Ponte Preta 22 6 5 14
+Palmeiras 22 6 3 16
+Figueirense 21 5 9 16
+Vitoria 20 5 -3 12
+Flamengo 19 5 4 18
+Botafogo 19 5 3 10
+Sport 18 4 0 13
+Internacional 18 4 0 12
+Atletico-MG 17 5 1 12
+Santos 17 5 -3 14
+Chapecoense 17 4 0 10
+Coritiba 17 4 -2 10
+Gremio 17 4 -2 10
+Cruzeiro 16 4 -4 12
+Sao Paulo 14 4 2 19
+America 14 3 -2 13
+Santa Cruz 13 3 -5 11
+Corinthians 12 3 -4 11
+Fluminense 12 3 -7 10
+14
+Atletico-PR 23 6 4 18
+Ponte Preta 22 6 4 15
+Palmeiras 22 6 0 17
+Figueirense 21 5 7 16
+Sport 21 5 3 17
+Internacional 21 5 1 14
+Atletico-MG 20 6 2 13
+Santos 20 6 -2 16
+Flamengo 20 5 4 18
+Botafogo 20 5 3 10
+Chapecoense 20 5 2 12
+Vitoria 20 5 -4 13
+Sao Paulo 17 5 3 21
+America 17 4 -1 16
+Coritiba 17 4 -3 12
+Gremio 17 4 -3 10
+Cruzeiro 16 4 -6 12
+Corinthians 15 4 -2 13
+Fluminense 15 4 -6 12
+Santa Cruz 13 3 -6 12
+15
+Ponte Preta 25 7 5 16
+Figueirense 24 6 8 18
+Internacional 24 6 2 16
+Atletico-PR 23 6 3 19
+Palmeiras 23 6 0 19
+Atletico-MG 21 6 2 13
+Santos 21 6 -2 18
+Flamengo 21 5 4 18
+Sport 21 5 2 17
+Chapecoense 21 5 2 12
+Botafogo 20 5 2 10
+America 20 5 0 19
+Gremio 20 5 -2 11
+Vitoria 20 5 -5 13
+Cruzeiro 19 5 -5 13
+Fluminense 18 5 -5 13
+Coritiba 18 4 -3 12
+Sao Paulo 17 5 2 22
+Corinthians 15 4 -3 15
+Santa Cruz 13 3 -7 12
+16
+Ponte Preta 28 8 8 19
+Figueirense 25 6 8 19
+Santos 24 7 -1 19
+Sport 24 6 6 21
+Chapecoense 24 6 4 14
+Internacional 24 6 1 16
+Atletico-PR 23 6 0 19
+Palmeiras 23 6 -3 19
+Cruzeiro 22 6 -4 15
+Atletico-MG 21 6 1 14
+Botafogo 21 5 2 10
+Flamengo 21 5 0 18
+Coritiba 21 5 0 15
+Vitoria 21 5 -5 14
+America 20 5 -2 19
+Gremio 20 5 -3 11
+Fluminense 19 5 -5 14
+Sao Paulo 18 5 2 23
+Corinthians 16 4 -3 15
+Santa Cruz 16 4 -6 13
+17
+Ponte Preta 29 8 8 22
+Figueirense 28 7 10 21
+Sport 27 7 7 22
+Internacional 27 7 2 18
+Santos 25 7 -1 19
+Chapecoense 25 6 4 14
+Botafogo 24 6 5 15
+Atletico-PR 24 6 0 19
+Vitoria 24 6 -3 17
+Palmeiras 23 6 -4 20
+Fluminense 22 6 -4 18
+Cruzeiro 22 6 -5 15
+Flamengo 22 5 0 18
+Atletico-MG 21 6 -4 14
+Coritiba 21 5 -2 16
+Gremio 21 5 -3 14
+America 20 5 -5 21
+Corinthians 19 5 2 20
+Sao Paulo 18 5 0 23
+Santa Cruz 16 4 -7 16
+18
+Ponte Preta 32 9 9 24
+Sport 30 8 9 24
+Internacional 30 8 5 23
+Figueirense 29 7 10 24
+Santos 28 8 1 21
+Chapecoense 28 7 5 15
+Atletico-PR 27 7 1 21
+Palmeiras 26 7 0 24
+Botafogo 25 6 5 15
+Vitoria 24 6 -4 17
+Atletico-MG 22 6 -4 14
+Cruzeiro 22 6 -7 15
+Fluminense 22 6 -8 18
+Flamengo 22 5 -1 19
+Coritiba 22 5 -2 17
+Gremio 21 5 -6 16
+America 20 5 -6 22
+Sao Paulo 19 5 0 24
+Corinthians 19 5 0 20
+Santa Cruz 17 4 -7 19
+19
+Ponte Preta 35 10 14 29
+Santos 31 9 3 23
+Sport 31 8 9 24
+Chapecoense 31 8 6 16
+Atletico-PR 30 8 2 23
+Internacional 30 8 0 23
+Palmeiras 29 8 2 26
+Figueirense 29 7 8 24
+Botafogo 26 6 5 15
+Fluminense 25 7 -6 20
+Flamengo 25 6 4 24
+Coritiba 25 6 -1 18
+Vitoria 24 6 -5 18
+Atletico-MG 23 6 -4 15
+Cruzeiro 22 6 -12 15
+America 21 5 -6 23
+Gremio 21 5 -8 16
+Sao Paulo 19 5 -1 24
+Corinthians 19 5 -2 20
+Santa Cruz 17 4 -8 19
+12/02/2017;Botafogo;0;Flamengo;0
+12/02/2017;Atletico-MG;1;Gremio;0
+12/02/2017;Sao Paulo;2;Ponte Preta;1
+12/11/2016;America;4;Vitoria;0
+12/11/2016;Atletico-PR;3;Sao Paulo;1
+12/11/2016;Flamengo;3;Fluminense;0
+31/01/2017;Corinthians;0;Gremio;1
+14/02/2017;Atletico-PR;1;Fluminense;2
+14/01/2017;Cruzeiro;2;Palmeiras;2
+18/02/2017;Figueirense;2;Atletico-PR;1
+18/02/2017;Internacional;2;Sao Paulo;1
+18/02/2017;Palmeiras;2;Santos;2
+13/12/2016;Sao Paulo;4;Palmeiras;0
+13/12/2016;Botafogo;0;Figueirense;1
+06/02/2017;America;1;Cruzeiro;1
+06/02/2017;Gremio;0;Botafogo;1
+06/02/2017;Palmeiras;0;Atletico-MG;0
+06/02/2017;Ponte Preta;0;Vitoria;2
+06/02/2017;Santos;2;Sao Paulo;1
+26/12/2016;Vitoria;4;Cruzeiro;1
+26/12/2016;Botafogo;0;Chapecoense;2
+28/02/2017;Chapecoense;2;America;0
+28/02/2017;Botafogo;0;Corinthians;0
+29/11/2016;America;3;Sao Paulo;1
+21/02/2017;Fluminense;1;Vitoria;0
+21/02/2017;Ponte Preta;1;Santa Cruz;0
+27/02/2017;Santa Cruz;1;Internacional;0
+28/01/2017;Atletico-PR;0;Ponte Preta;0
+28/01/2017;Atletico-MG;1;Santa Cruz;0

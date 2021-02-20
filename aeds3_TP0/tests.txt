@@ -1,0 +1,95 @@
+cadar@Plank:~/Dropbox/aeds3/TP0$ 
+cadar@Plank:~/Dropbox/aeds3/TP0$ time ./arvore < toys/in_2.in > toys/tree_in_2.out
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+cadar@Plank:~/Dropbox/aeds3/TP0$ time ./arvore < toys/in_3.in > toys/tree_in_3.out
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
+cadar@Plank:~/Dropbox/aeds3/TP0$ time ./arvore < toys/in_4.in > toys/tree_in_4.out
+
+real	0m0.007s
+user	0m0.004s
+sys	0m0.000s
+cadar@Plank:~/Dropbox/aeds3/TP0$ time ./arvore < toys/in_5.in > toys/tree_in_5.out
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+cadar@Plank:~/Dropbox/aeds3/TP0$ time ./arvore < toys/in_6.in > toys/tree_in_6.out
+
+real	0m0.038s
+user	0m0.032s
+sys	0m0.000s
+cadar@Plank:~/Dropbox/aeds3/TP0$ time ./arvore < toys/in_7.in > toys/tree_in_7.out
+
+real	0m0.020s
+user	0m0.016s
+sys	0m0.000s
+cadar@Plank:~/Dropbox/aeds3/TP0$ time ./arvore < toys/in_8.in > toys/tree_in_8.out
+
+real	0m0.040s
+user	0m0.040s
+sys	0m0.000s
+cadar@Plank:~/Dropbox/aeds3/TP0$ time ./arvore < toys/in_9.in > toys/tree_in_9.out
+
+real	0m0.476s
+user	0m0.468s
+sys	0m0.004s
+cadar@Plank:~/Dropbox/aeds3/TP0$ time ./arvore < toys/in_10.in > toys/tree_in_10.out
+
+real	0m2.168s
+user	0m2.164s
+sys	0m0.000s
+cadar@Plank:~/Dropbox/aeds3/TP0$ 
+cadar@Plank:~/Dropbox/aeds3/TP0$ time ./matrix < toys/in_1.in > toys/mat_in_1.out
+
+real	0m0.014s
+user	0m0.012s
+sys	0m0.000s
+cadar@Plank:~/Dropbox/aeds3/TP0$ time ./matrix < toys/in_2.in > toys/mat_in_2.out
+
+real	0m0.037s
+user	0m0.032s
+sys	0m0.000s
+cadar@Plank:~/Dropbox/aeds3/TP0$ time ./matrix < toys/in_3.in > toys/mat_in_3.out
+^[[15~
+real	0m8.634s
+user	0m8.620s
+sys	0m0.000s
+cadar@Plank:~/Dropbox/aeds3/TP0$ time ./matrix < toys/in_4.in > toys/mat_in_4.out
+
+real	0m11.782s
+user	0m11.772s
+sys	0m0.004s
+cadar@Plank:~/Dropbox/aeds3/TP0$ time ./matrix < toys/in_5.in > toys/mat_in_5.out
+
+real	0m9.015s
+user	0m8.996s
+sys	0m0.016s
+cadar@Plank:~/Dropbox/aeds3/TP0$ time ./matrix < toys/in_6.in > toys/mat_in_6.out
+
+real	8m44.505s
+user	8m42.416s
+sys	0m0.944s
+cadar@Plank:~/Dropbox/aeds3/TP0$ time ./matrix < toys/in_7.in > toys/mat_in_7.out
+
+real	1m8.698s
+user	1m8.380s
+sys	0m0.096s
+cadar@Plank:~/Dropbox/aeds3/TP0$ time ./matrix < toys/in_8.in > toys/mat_in_8.out
+
+real	2m9.955s
+user	2m9.860s
+sys	0m0.024s
+cadar@Plank:~/Dropbox/aeds3/TP0$ time ./matrix < toys/in_9.in > toys/mat_in_9.out
+^C
+
+real	469m32.878s
+user	469m29.968s
+sys	0m1.584s
+cadar@Plank:~/Dropbox/aeds3/TP0$ 
+

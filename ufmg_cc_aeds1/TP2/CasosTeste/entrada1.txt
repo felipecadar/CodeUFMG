@@ -1,0 +1,54 @@
+5;1
+8;7;4
+America
+Atletico-MG
+Atletico-PR
+Botafogo
+Chapecoense
+Corinthians
+Coritiba
+Cruzeiro
+RODADA 1
+07/06/2016;America;0;Cruzeiro;1
+10/06/2016;Atletico-MG;1;Coritiba;0
+07/06/2016;Atletico-PR;1;Corinthians;3
+09/06/2016;Botafogo;0;Chapecoense;0
+RODADA 2
+13/06/2016;Coritiba;0;America;0
+16/06/2016;Corinthians;0;Cruzeiro;0
+13/06/2016;Chapecoense;1;Atletico-MG;2
+15/06/2016;Botafogo;1;Atletico-PR;2
+RODADA 3
+22/06/2016;America;0;Corinthians;3
+24/06/2016;Coritiba;1;Chapecoense;2
+21/06/2016;Cruzeiro;0;Botafogo;0
+23/06/2016;Atletico-MG;1;Atletico-PR;3
+RODADA 4
+01/07/2016;Chapecoense;0;America;4
+27/06/2016;Botafogo;0;Corinthians;1
+29/06/2016;Atletico-PR;1;Coritiba;2
+30/06/2016;Atletico-MG;1;Cruzeiro;3
+RODADA 5
+08/07/2016;America;1;Botafogo;1
+04/07/2016;Chapecoense;2;Atletico-PR;2
+06/07/2016;Corinthians;0;Atletico-MG;2
+08/07/2016;Coritiba;0;Cruzeiro;1
+RODADA 6
+14/07/2016;Atletico-PR;0;America;1
+13/07/2016;Atletico-MG;0;Botafogo;0
+13/07/2016;Cruzeiro;2;Chapecoense;1
+15/07/2016;Coritiba;0;Corinthians;3
+RODADA 7
+18/07/2016;America;0;Atletico-MG;1
+22/07/2016;Atletico-PR;0;Cruzeiro;0
+20/07/2016;Botafogo;1;Coritiba;0
+21/07/2016;Chapecoense;1;Corinthians;0
+07/06/2016
+16/06/2016
+15/07/2016
+13/06/2016
+21/06/2016
+01/07/2016
+15/06/2016
+18/07/2016
+22/06/2016

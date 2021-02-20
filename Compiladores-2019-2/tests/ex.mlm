@@ -1,0 +1,7 @@
+program TestProgram;
+PROCEDURE placeholder1(value char : placeholder2)
+Begin
+a = a + b
+b = b * c
+write (b)
+end

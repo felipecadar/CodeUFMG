@@ -1,0 +1,17 @@
+50;1
+4;3;2
+Atletico-MG
+Cruzeiro
+Gremio
+Internacional
+RODADA 1
+25/10/2016;Internacional;0;Atletico-MG;2
+26/10/2016;Cruzeiro;1;Gremio;0
+RODADA 2
+01/11/2016;Internacional;1;Gremio;1
+02/11/2016;Cruzeiro;2;Atletico-MG;2
+RODADA 3
+08/11/2016;Internacional;1;Cruzeiro;4
+09/11/2016;Atletico-MG;2;Gremio;0
+26/10/2016
+02/11/2016

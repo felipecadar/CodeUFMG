@@ -1,0 +1,265 @@
+174;1
+20;19;10
+America
+Atletico-MG
+Atletico-PR
+Botafogo
+Chapecoense
+Corinthians
+Coritiba
+Cruzeiro
+Figueirense
+Flamengo
+Fluminense
+Gremio
+Internacional
+Palmeiras
+Ponte Preta
+Santa Cruz
+Santos
+Sao Paulo
+Sport
+Vitoria
+RODADA 1
+17/05/2016;America;2;Vitoria;1
+16/05/2016;Atletico-MG;3;Sport;1
+14/05/2016;Atletico-PR;0;Sao Paulo;0
+16/05/2016;Botafogo;0;Santos;2
+14/05/2016;Chapecoense;5;Santa Cruz;1
+16/05/2016;Corinthians;0;Ponte Preta;2
+18/05/2016;Coritiba;2;Palmeiras;0
+18/05/2016;Cruzeiro;1;Internacional;3
+14/05/2016;Figueirense;1;Gremio;2
+16/05/2016;Flamengo;1;Fluminense;0
+RODADA 2
+24/05/2016;Sport;2;America;0
+21/05/2016;Sao Paulo;1;Vitoria;2
+24/05/2016;Santos;0;Atletico-MG;3
+21/05/2016;Santa Cruz;1;Atletico-PR;1
+21/05/2016;Ponte Preta;5;Botafogo;0
+24/05/2016;Palmeiras;0;Chapecoense;0
+24/05/2016;Internacional;1;Corinthians;1
+24/05/2016;Gremio;2;Coritiba;2
+25/05/2016;Fluminense;3;Cruzeiro;0
+23/05/2016;Flamengo;0;Figueirense;0
+RODADA 3
+28/05/2016;America;3;Sao Paulo;1
+31/05/2016;Sport;0;Santos;0
+29/05/2016;Vitoria;2;Santa Cruz;0
+29/05/2016;Atletico-MG;0;Ponte Preta;1
+30/05/2016;Atletico-PR;3;Palmeiras;2
+31/05/2016;Botafogo;1;Internacional;1
+01/06/2016;Chapecoense;1;Gremio;1
+31/05/2016;Corinthians;0;Fluminense;1
+30/05/2016;Coritiba;3;Flamengo;1
+31/05/2016;Cruzeiro;0;Figueirense;1
+RODADA 4
+08/06/2016;Santos;0;America;0
+06/06/2016;Santa Cruz;0;Sao Paulo;3
+06/06/2016;Ponte Preta;0;Sport;0
+08/06/2016;Palmeiras;1;Vitoria;0
+06/06/2016;Internacional;0;Atletico-MG;1
+08/06/2016;Gremio;1;Atletico-PR;1
+04/06/2016;Fluminense;0;Botafogo;0
+07/06/2016;Flamengo;1;Chapecoense;1
+07/06/2016;Figueirense;2;Corinthians;1
+06/06/2016;Cruzeiro;0;Coritiba;1
+RODADA 5
+11/06/2016;America;3;Santa Cruz;1
+15/06/2016;Santos;0;Ponte Preta;0
+12/06/2016;Sao Paulo;0;Palmeiras;0
+15/06/2016;Sport;0;Internacional;1
+14/06/2016;Vitoria;0;Gremio;0
+13/06/2016;Atletico-MG;3;Fluminense;1
+11/06/2016;Atletico-PR;2;Flamengo;0
+14/06/2016;Botafogo;0;Figueirense;2
+15/06/2016;Chapecoense;1;Cruzeiro;0
+15/06/2016;Corinthians;0;Coritiba;1
+RODADA 6
+20/06/2016;Ponte Preta;1;America;0
+19/06/2016;Palmeiras;0;Santa Cruz;2
+18/06/2016;Internacional;1;Santos;2
+20/06/2016;Gremio;0;Sao Paulo;0
+20/06/2016;Fluminense;1;Sport;1
+18/06/2016;Flamengo;3;Vitoria;1
+22/06/2016;Figueirense;4;Atletico-MG;1
+22/06/2016;Cruzeiro;0;Atletico-PR;0
+21/06/2016;Coritiba;0;Botafogo;1
+20/06/2016;Corinthians;0;Chapecoense;3
+RODADA 7
+26/06/2016;America;0;Palmeiras;3
+28/06/2016;Ponte Preta;1;Internacional;0
+25/06/2016;Santa Cruz;0;Gremio;3
+28/06/2016;Santos;1;Fluminense;2
+26/06/2016;Sao Paulo;0;Flamengo;2
+27/06/2016;Sport;3;Figueirense;2
+27/06/2016;Vitoria;0;Cruzeiro;0
+28/06/2016;Atletico-MG;0;Coritiba;2
+28/06/2016;Atletico-PR;1;Corinthians;1
+29/06/2016;Botafogo;0;Chapecoense;1
+RODADA 8
+05/07/2016;Internacional;2;America;1
+06/07/2016;Gremio;4;Palmeiras;3
+04/07/2016;Fluminense;2;Ponte Preta;0
+02/07/2016;Flamengo;0;Santa Cruz;1
+03/07/2016;Figueirense;1;Santos;0
+06/07/2016;Cruzeiro;0;Sao Paulo;2
+06/07/2016;Coritiba;0;Sport;2
+06/07/2016;Corinthians;1;Vitoria;0
+02/07/2016;Chapecoense;1;Atletico-MG;0
+02/07/2016;Botafogo;2;Atletico-PR;0
+RODADA 9
+11/07/2016;America;3;Gremio;0
+12/07/2016;Internacional;2;Fluminense;1
+13/07/2016;Palmeiras;0;Flamengo;5
+09/07/2016;Ponte Preta;2;Figueirense;2
+09/07/2016;Santa Cruz;0;Cruzeiro;0
+13/07/2016;Santos;0;Coritiba;0
+09/07/2016;Sao Paulo;1;Corinthians;3
+09/07/2016;Sport;0;Chapecoense;0
+10/07/2016;Vitoria;1;Botafogo;3
+12/07/2016;Atletico-MG;3;Atletico-PR;1
+RODADA 10
+16/07/2016;Fluminense;0;America;0
+16/07/2016;Flamengo;3;Gremio;0
+16/07/2016;Figueirense;1;Internacional;3
+17/07/2016;Cruzeiro;0;Palmeiras;1
+19/07/2016;Coritiba;0;Ponte Preta;3
+17/07/2016;Corinthians;3;Santa Cruz;2
+16/07/2016;Chapecoense;2;Santos;3
+19/07/2016;Botafogo;1;Sao Paulo;1
+17/07/2016;Atletico-PR;1;Sport;3
+17/07/2016;Atletico-MG;0;Vitoria;2
+RODADA 11
+25/07/2016;America;0;Flamengo;0
+27/07/2016;Fluminense;0;Figueirense;1
+25/07/2016;Gremio;1;Cruzeiro;1
+27/07/2016;Internacional;0;Coritiba;0
+26/07/2016;Palmeiras;0;Corinthians;0
+27/07/2016;Ponte Preta;1;Chapecoense;1
+25/07/2016;Santa Cruz;0;Botafogo;0
+25/07/2016;Santos;3;Atletico-PR;5
+25/07/2016;Sao Paulo;1;Atletico-MG;3
+26/07/2016;Sport;1;Vitoria;0
+RODADA 12
+02/08/2016;Figueirense;2;America;2
+30/07/2016;Cruzeiro;0;Flamengo;1
+30/07/2016;Coritiba;0;Fluminense;1
+30/07/2016;Corinthians;2;Gremio;1
+31/07/2016;Chapecoense;0;Internacional;5
+30/07/2016;Botafogo;0;Palmeiras;3
+02/08/2016;Atletico-PR;2;Ponte Preta;1
+02/08/2016;Atletico-MG;0;Santa Cruz;0
+03/08/2016;Vitoria;1;Santos;2
+02/08/2016;Sport;0;Sao Paulo;0
+RODADA 13
+07/08/2016;America;0;Cruzeiro;3
+07/08/2016;Figueirense;2;Coritiba;2
+08/08/2016;Flamengo;5;Corinthians;1
+08/08/2016;Fluminense;0;Chapecoense;2
+08/08/2016;Gremio;1;Botafogo;0
+08/08/2016;Internacional;3;Atletico-PR;0
+06/08/2016;Palmeiras;0;Atletico-MG;2
+07/08/2016;Ponte Preta;0;Vitoria;0
+08/08/2016;Santa Cruz;1;Sport;1
+06/08/2016;Santos;0;Sao Paulo;0
+RODADA 14
+13/08/2016;Coritiba;0;America;3
+13/08/2016;Corinthians;1;Cruzeiro;1
+14/08/2016;Chapecoense;1;Figueirense;1
+16/08/2016;Botafogo;1;Flamengo;2
+15/08/2016;Atletico-PR;1;Fluminense;2
+13/08/2016;Atletico-MG;3;Gremio;0
+14/08/2016;Vitoria;0;Internacional;2
+15/08/2016;Sport;0;Palmeiras;2
+16/08/2016;Sao Paulo;2;Ponte Preta;1
+16/08/2016;Santos;3;Santa Cruz;2
+RODADA 15
+22/08/2016;America;0;Corinthians;3
+24/08/2016;Coritiba;5;Chapecoense;0
+20/08/2016;Cruzeiro;0;Botafogo;2
+24/08/2016;Figueirense;0;Atletico-PR;0
+24/08/2016;Flamengo;0;Atletico-MG;1
+22/08/2016;Fluminense;0;Vitoria;3
+22/08/2016;Gremio;0;Sport;2
+24/08/2016;Internacional;2;Sao Paulo;3
+23/08/2016;Palmeiras;0;Santos;0
+22/08/2016;Ponte Preta;2;Santa Cruz;1
+RODADA 16
+27/08/2016;Chapecoense;0;America;3
+28/08/2016;Botafogo;3;Corinthians;4
+30/08/2016;Atletico-PR;0;Coritiba;3
+30/08/2016;Atletico-MG;0;Cruzeiro;0
+31/08/2016;Vitoria;0;Figueirense;3
+29/08/2016;Sport;0;Flamengo;0
+28/08/2016;Sao Paulo;0;Fluminense;2
+29/08/2016;Santos;0;Gremio;1
+28/08/2016;Santa Cruz;2;Internacional;1
+31/08/2016;Ponte Preta;1;Palmeiras;0
+RODADA 17
+03/09/2016;America;1;Botafogo;2
+04/09/2016;Chapecoense;3;Atletico-PR;2
+03/09/2016;Corinthians;0;Atletico-MG;3
+04/09/2016;Coritiba;2;Vitoria;2
+06/09/2016;Cruzeiro;2;Sport;0
+06/09/2016;Figueirense;2;Sao Paulo;2
+07/09/2016;Flamengo;0;Santos;2
+04/09/2016;Fluminense;0;Santa Cruz;5
+04/09/2016;Gremio;1;Ponte Preta;1
+04/09/2016;Internacional;0;Palmeiras;3
+RODADA 18
+11/09/2016;Atletico-PR;0;America;0
+14/09/2016;Atletico-MG;2;Botafogo;1
+11/09/2016;Vitoria;3;Chapecoense;0
+13/09/2016;Sport;1;Corinthians;2
+11/09/2016;Sao Paulo;0;Coritiba;5
+11/09/2016;Santos;0;Cruzeiro;1
+13/09/2016;Santa Cruz;2;Figueirense;1
+11/09/2016;Ponte Preta;0;Flamengo;0
+14/09/2016;Palmeiras;0;Fluminense;2
+12/09/2016;Internacional;3;Gremio;2
+RODADA 19
+20/09/2016;America;5;Atletico-MG;0
+19/09/2016;Atletico-PR;1;Vitoria;1
+17/09/2016;Botafogo;0;Sport;3
+19/09/2016;Chapecoense;0;Sao Paulo;1
+19/09/2016;Corinthians;2;Santos;5
+19/09/2016;Coritiba;2;Santa Cruz;0
+17/09/2016;Cruzeiro;1;Ponte Preta;0
+19/09/2016;Figueirense;1;Palmeiras;2
+19/09/2016;Flamengo;3;Internacional;0
+17/09/2016;Fluminense;4;Gremio;1
+17/09/2016
+03/08/2016
+06/08/2016
+20/06/2016
+16/08/2016
+31/05/2016
+11/06/2016
+08/08/2016
+28/05/2016
+13/09/2016
+25/05/2016
+08/06/2016
+14/05/2016
+17/07/2016
+14/06/2016
+27/08/2016
+27/07/2016
+19/09/2016
+27/06/2016
+21/06/2016
+23/08/2016
+14/08/2016
+29/08/2016
+13/08/2016
+04/06/2016
+29/05/2016
+05/07/2016
+29/06/2016
+07/08/2016
+18/06/2016
+12/09/2016
+25/06/2016
+07/06/2016
+11/09/2016

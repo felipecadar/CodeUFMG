@@ -1,0 +1,245 @@
+46;1
+20;19;10
+America
+Atletico-MG
+Atletico-PR
+Botafogo
+Chapecoense
+Corinthians
+Coritiba
+Cruzeiro
+Figueirense
+Flamengo
+Fluminense
+Gremio
+Internacional
+Palmeiras
+Ponte Preta
+Santa Cruz
+Santos
+Sao Paulo
+Sport
+Vitoria
+RODADA 1
+12/11/2016;America;4;Vitoria;0
+14/11/2016;Atletico-MG;0;Sport;0
+12/11/2016;Atletico-PR;3;Sao Paulo;1
+13/11/2016;Botafogo;0;Santos;0
+13/11/2016;Chapecoense;2;Santa Cruz;2
+11/11/2016;Corinthians;2;Ponte Preta;1
+15/11/2016;Coritiba;1;Palmeiras;0
+14/11/2016;Cruzeiro;1;Internacional;0
+14/11/2016;Figueirense;0;Gremio;0
+12/11/2016;Flamengo;3;Fluminense;0
+RODADA 2
+20/11/2016;Sport;5;America;0
+19/11/2016;Sao Paulo;0;Vitoria;1
+18/11/2016;Santos;1;Atletico-MG;0
+21/11/2016;Santa Cruz;1;Atletico-PR;1
+21/11/2016;Ponte Preta;1;Botafogo;0
+19/11/2016;Palmeiras;0;Chapecoense;0
+20/11/2016;Internacional;3;Corinthians;1
+18/11/2016;Gremio;1;Coritiba;3
+20/11/2016;Fluminense;0;Cruzeiro;1
+21/11/2016;Flamengo;1;Figueirense;1
+RODADA 3
+29/11/2016;America;3;Sao Paulo;1
+27/11/2016;Sport;2;Santos;1
+27/11/2016;Vitoria;2;Santa Cruz;1
+27/11/2016;Atletico-MG;3;Ponte Preta;0
+27/11/2016;Atletico-PR;0;Palmeiras;0
+26/11/2016;Botafogo;0;Internacional;0
+25/11/2016;Chapecoense;0;Gremio;0
+28/11/2016;Corinthians;1;Fluminense;0
+25/11/2016;Coritiba;0;Flamengo;0
+27/11/2016;Cruzeiro;0;Figueirense;1
+RODADA 4
+06/12/2016;Santos;1;America;0
+05/12/2016;Santa Cruz;1;Sao Paulo;0
+02/12/2016;Ponte Preta;0;Sport;0
+04/12/2016;Palmeiras;2;Vitoria;0
+06/12/2016;Internacional;1;Atletico-MG;0
+05/12/2016;Gremio;0;Atletico-PR;1
+06/12/2016;Fluminense;0;Botafogo;3
+04/12/2016;Flamengo;3;Chapecoense;0
+04/12/2016;Figueirense;2;Corinthians;1
+06/12/2016;Cruzeiro;0;Coritiba;0
+RODADA 5
+11/12/2016;America;0;Santa Cruz;0
+11/12/2016;Santos;0;Ponte Preta;3
+13/12/2016;Sao Paulo;4;Palmeiras;0
+10/12/2016;Sport;1;Internacional;1
+09/12/2016;Vitoria;1;Gremio;1
+09/12/2016;Atletico-MG;3;Fluminense;1
+09/12/2016;Atletico-PR;2;Flamengo;1
+13/12/2016;Botafogo;0;Figueirense;1
+12/12/2016;Chapecoense;2;Cruzeiro;0
+12/12/2016;Corinthians;3;Coritiba;0
+RODADA 6
+16/12/2016;Ponte Preta;2;America;1
+20/12/2016;Palmeiras;1;Santa Cruz;0
+19/12/2016;Internacional;0;Santos;1
+20/12/2016;Gremio;3;Sao Paulo;3
+16/12/2016;Fluminense;2;Sport;0
+19/12/2016;Flamengo;1;Vitoria;1
+18/12/2016;Figueirense;1;Atletico-MG;2
+17/12/2016;Cruzeiro;4;Atletico-PR;1
+18/12/2016;Coritiba;2;Botafogo;3
+18/12/2016;Corinthians;0;Chapecoense;2
+RODADA 7
+23/12/2016;America;2;Palmeiras;3
+24/12/2016;Ponte Preta;5;Internacional;1
+25/12/2016;Santa Cruz;0;Gremio;1
+23/12/2016;Santos;1;Fluminense;3
+27/12/2016;Sao Paulo;5;Flamengo;0
+23/12/2016;Sport;0;Figueirense;5
+26/12/2016;Vitoria;4;Cruzeiro;1
+27/12/2016;Atletico-MG;0;Coritiba;1
+25/12/2016;Atletico-PR;1;Corinthians;1
+26/12/2016;Botafogo;0;Chapecoense;2
+RODADA 8
+02/01/2017;Internacional;0;America;0
+03/01/2017;Gremio;0;Palmeiras;3
+01/01/2017;Fluminense;0;Ponte Preta;1
+31/12/2016;Flamengo;5;Santa Cruz;1
+03/01/2017;Figueirense;1;Santos;1
+31/12/2016;Cruzeiro;2;Sao Paulo;0
+30/12/2016;Coritiba;1;Sport;1
+31/12/2016;Corinthians;0;Vitoria;0
+03/01/2017;Chapecoense;0;Atletico-MG;1
+31/12/2016;Botafogo;0;Atletico-PR;0
+RODADA 9
+08/01/2017;America;0;Gremio;0
+08/01/2017;Internacional;3;Fluminense;3
+06/01/2017;Palmeiras;3;Flamengo;2
+09/01/2017;Ponte Preta;1;Figueirense;0
+10/01/2017;Santa Cruz;3;Cruzeiro;0
+08/01/2017;Santos;0;Coritiba;2
+09/01/2017;Sao Paulo;0;Corinthians;0
+08/01/2017;Sport;2;Chapecoense;0
+09/01/2017;Vitoria;0;Botafogo;0
+07/01/2017;Atletico-MG;2;Atletico-PR;3
+RODADA 10
+13/01/2017;Fluminense;0;America;1
+17/01/2017;Flamengo;0;Gremio;1
+15/01/2017;Figueirense;0;Internacional;0
+14/01/2017;Cruzeiro;2;Palmeiras;2
+17/01/2017;Coritiba;0;Ponte Preta;0
+13/01/2017;Corinthians;1;Santa Cruz;2
+13/01/2017;Chapecoense;2;Santos;1
+13/01/2017;Botafogo;0;Sao Paulo;1
+15/01/2017;Atletico-PR;2;Sport;0
+17/01/2017;Atletico-MG;0;Vitoria;1
+RODADA 11
+24/01/2017;America;0;Flamengo;1
+23/01/2017;Fluminense;0;Figueirense;0
+23/01/2017;Gremio;2;Cruzeiro;0
+23/01/2017;Internacional;0;Coritiba;0
+24/01/2017;Palmeiras;2;Corinthians;1
+23/01/2017;Ponte Preta;0;Chapecoense;0
+20/01/2017;Santa Cruz;0;Botafogo;2
+23/01/2017;Santos;0;Atletico-PR;3
+24/01/2017;Sao Paulo;2;Atletico-MG;0
+20/01/2017;Sport;0;Vitoria;0
+RODADA 12
+27/01/2017;Figueirense;1;America;1
+29/01/2017;Cruzeiro;0;Flamengo;0
+30/01/2017;Coritiba;0;Fluminense;1
+31/01/2017;Corinthians;0;Gremio;1
+27/01/2017;Chapecoense;0;Internacional;1
+29/01/2017;Botafogo;1;Palmeiras;0
+28/01/2017;Atletico-PR;0;Ponte Preta;0
+28/01/2017;Atletico-MG;1;Santa Cruz;0
+29/01/2017;Vitoria;0;Santos;5
+29/01/2017;Sport;2;Sao Paulo;1
+RODADA 13
+06/02/2017;America;1;Cruzeiro;1
+07/02/2017;Figueirense;3;Coritiba;0
+05/02/2017;Flamengo;1;Corinthians;0
+07/02/2017;Fluminense;0;Chapecoense;0
+06/02/2017;Gremio;0;Botafogo;1
+03/02/2017;Internacional;2;Atletico-PR;0
+06/02/2017;Palmeiras;0;Atletico-MG;0
+06/02/2017;Ponte Preta;0;Vitoria;2
+07/02/2017;Santa Cruz;0;Sport;0
+06/02/2017;Santos;2;Sao Paulo;1
+RODADA 14
+11/02/2017;Coritiba;2;America;3
+11/02/2017;Corinthians;2;Cruzeiro;0
+10/02/2017;Chapecoense;2;Figueirense;0
+12/02/2017;Botafogo;0;Flamengo;0
+14/02/2017;Atletico-PR;1;Fluminense;2
+12/02/2017;Atletico-MG;1;Gremio;0
+10/02/2017;Vitoria;1;Internacional;2
+11/02/2017;Sport;4;Palmeiras;1
+12/02/2017;Sao Paulo;2;Ponte Preta;1
+13/02/2017;Santos;2;Santa Cruz;1
+RODADA 15
+17/02/2017;America;3;Corinthians;2
+17/02/2017;Coritiba;0;Chapecoense;0
+17/02/2017;Cruzeiro;1;Botafogo;0
+18/02/2017;Figueirense;2;Atletico-PR;1
+19/02/2017;Flamengo;0;Atletico-MG;0
+21/02/2017;Fluminense;1;Vitoria;0
+19/02/2017;Gremio;1;Sport;0
+18/02/2017;Internacional;2;Sao Paulo;1
+18/02/2017;Palmeiras;2;Santos;2
+21/02/2017;Ponte Preta;1;Santa Cruz;0
+RODADA 16
+28/02/2017;Chapecoense;2;America;0
+28/02/2017;Botafogo;0;Corinthians;0
+25/02/2017;Atletico-PR;0;Coritiba;3
+24/02/2017;Atletico-MG;1;Cruzeiro;2
+25/02/2017;Vitoria;1;Figueirense;1
+24/02/2017;Sport;4;Flamengo;0
+25/02/2017;Sao Paulo;1;Fluminense;1
+25/02/2017;Santos;1;Gremio;0
+27/02/2017;Santa Cruz;1;Internacional;0
+26/02/2017;Ponte Preta;3;Palmeiras;0
+RODADA 17
+07/03/2017;America;2;Botafogo;5
+05/03/2017;Chapecoense;0;Atletico-PR;0
+03/03/2017;Corinthians;5;Atletico-MG;0
+06/03/2017;Coritiba;1;Vitoria;3
+07/03/2017;Cruzeiro;0;Sport;1
+06/03/2017;Figueirense;2;Sao Paulo;0
+06/03/2017;Flamengo;0;Santos;0
+04/03/2017;Fluminense;4;Santa Cruz;3
+06/03/2017;Gremio;3;Ponte Preta;3
+07/03/2017;Internacional;2;Palmeiras;1
+RODADA 18
+10/03/2017;Atletico-PR;2;America;1
+10/03/2017;Atletico-MG;0;Botafogo;0
+13/03/2017;Vitoria;0;Chapecoense;1
+14/03/2017;Sport;2;Corinthians;0
+14/03/2017;Sao Paulo;1;Coritiba;1
+10/03/2017;Santos;2;Cruzeiro;0
+14/03/2017;Santa Cruz;3;Figueirense;3
+10/03/2017;Ponte Preta;2;Flamengo;1
+14/03/2017;Palmeiras;4;Fluminense;0
+10/03/2017;Internacional;5;Gremio;2
+RODADA 19
+18/03/2017;America;1;Atletico-MG;1
+17/03/2017;Atletico-PR;2;Vitoria;1
+19/03/2017;Botafogo;0;Sport;0
+17/03/2017;Chapecoense;1;Sao Paulo;0
+20/03/2017;Corinthians;0;Santos;2
+18/03/2017;Coritiba;1;Santa Cruz;0
+19/03/2017;Cruzeiro;0;Ponte Preta;5
+18/03/2017;Figueirense;0;Palmeiras;2
+19/03/2017;Flamengo;5;Internacional;0
+17/03/2017;Fluminense;2;Gremio;0
+12/02/2017
+12/11/2016
+31/01/2017
+14/02/2017
+14/01/2017
+18/02/2017
+13/12/2016
+06/02/2017
+26/12/2016
+28/02/2017
+29/11/2016
+21/02/2017
+27/02/2017
+28/01/2017

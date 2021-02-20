@@ -1,0 +1,10 @@
+inkscape sensitivity_analysis/a/datasets/graph1/graph.svg --export-pdf=sensitivity_analysis/a/datasets/graph1/graph.pdf
+inkscape sensitivity_analysis/a/datasets/graph2/graph.svg --export-pdf=sensitivity_analysis/a/datasets/graph2/graph.pdf
+inkscape sensitivity_analysis/b/datasets/graph1/graph.svg --export-pdf=sensitivity_analysis/b/datasets/graph1/graph.pdf
+inkscape sensitivity_analysis/b/datasets/graph2/graph.svg --export-pdf=sensitivity_analysis/b/datasets/graph2/graph.pdf
+inkscape sensitivity_analysis/p/datasets/graph1/graph.svg --export-pdf=sensitivity_analysis/p/datasets/graph1/graph.pdf
+inkscape sensitivity_analysis/p/datasets/graph2/graph.svg --export-pdf=sensitivity_analysis/p/datasets/graph2/graph.pdf
+inkscape sensitivity_analysis/pop/datasets/graph1/graph.svg --export-pdf=sensitivity_analysis/pop/datasets/graph1/graph.pdf
+inkscape sensitivity_analysis/pop/datasets/graph2/graph.svg --export-pdf=sensitivity_analysis/pop/datasets/graph2/graph.pdf
+inkscape sensitivity_analysis/q/datasets/graph1/graph.svg --export-pdf=sensitivity_analysis/q/datasets/graph1/graph.pdf
+inkscape sensitivity_analysis/q/datasets/graph2/graph.svg --export-pdf=sensitivity_analysis/q/datasets/graph2/graph.pdf

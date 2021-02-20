@@ -1,0 +1,241 @@
+132;1
+20;19;10
+America
+Atletico-MG
+Atletico-PR
+Botafogo
+Chapecoense
+Corinthians
+Coritiba
+Cruzeiro
+Figueirense
+Flamengo
+Fluminense
+Gremio
+Internacional
+Palmeiras
+Ponte Preta
+Santa Cruz
+Santos
+Sao Paulo
+Sport
+Vitoria
+RODADA 1
+01/01/2000;America;5;Vitoria;2
+05/01/2000;Atletico-MG;1;Sport;0
+04/01/2000;Atletico-PR;3;Sao Paulo;1
+05/01/2000;Botafogo;0;Santos;0
+01/01/2000;Chapecoense;1;Santa Cruz;0
+01/01/2000;Corinthians;0;Ponte Preta;3
+04/01/2000;Coritiba;2;Palmeiras;1
+04/01/2000;Cruzeiro;0;Internacional;1
+02/01/2000;Figueirense;4;Gremio;0
+03/01/2000;Flamengo;3;Fluminense;0
+RODADA 2
+10/01/2000;Sport;2;America;3
+09/01/2000;Sao Paulo;1;Vitoria;1
+09/01/2000;Santos;0;Atletico-MG;0
+10/01/2000;Santa Cruz;0;Atletico-PR;2
+12/01/2000;Ponte Preta;0;Botafogo;2
+09/01/2000;Palmeiras;0;Chapecoense;0
+12/01/2000;Internacional;1;Corinthians;1
+12/01/2000;Gremio;3;Coritiba;0
+11/01/2000;Fluminense;2;Cruzeiro;0
+12/01/2000;Flamengo;0;Figueirense;2
+RODADA 3
+16/01/2000;America;0;Sao Paulo;2
+19/01/2000;Sport;0;Santos;0
+18/01/2000;Vitoria;0;Santa Cruz;0
+17/01/2000;Atletico-MG;2;Ponte Preta;0
+16/01/2000;Atletico-PR;1;Palmeiras;1
+19/01/2000;Botafogo;2;Internacional;0
+19/01/2000;Chapecoense;1;Gremio;1
+19/01/2000;Corinthians;0;Fluminense;0
+19/01/2000;Coritiba;5;Flamengo;2
+17/01/2000;Cruzeiro;0;Figueirense;0
+RODADA 4
+26/01/2000;Santos;2;America;1
+26/01/2000;Santa Cruz;0;Sao Paulo;1
+24/01/2000;Ponte Preta;0;Sport;1
+26/01/2000;Palmeiras;1;Vitoria;2
+22/01/2000;Internacional;0;Atletico-MG;0
+26/01/2000;Gremio;2;Atletico-PR;0
+24/01/2000;Fluminense;2;Botafogo;0
+24/01/2000;Flamengo;0;Chapecoense;4
+23/01/2000;Figueirense;1;Corinthians;1
+22/01/2000;Cruzeiro;2;Coritiba;0
+RODADA 5
+31/01/2000;America;1;Santa Cruz;3
+30/01/2000;Santos;5;Ponte Preta;2
+01/02/2000;Sao Paulo;2;Palmeiras;1
+01/02/2000;Sport;1;Internacional;1
+29/01/2000;Vitoria;3;Gremio;1
+31/01/2000;Atletico-MG;1;Fluminense;1
+29/01/2000;Atletico-PR;1;Flamengo;0
+31/01/2000;Botafogo;5;Figueirense;0
+29/01/2000;Chapecoense;2;Cruzeiro;2
+30/01/2000;Corinthians;1;Coritiba;2
+RODADA 6
+09/02/2000;Ponte Preta;1;America;1
+08/02/2000;Palmeiras;4;Santa Cruz;2
+07/02/2000;Internacional;1;Santos;0
+08/02/2000;Gremio;0;Sao Paulo;0
+05/02/2000;Fluminense;0;Sport;2
+09/02/2000;Flamengo;0;Vitoria;0
+05/02/2000;Figueirense;2;Atletico-MG;0
+05/02/2000;Cruzeiro;0;Atletico-PR;3
+08/02/2000;Coritiba;0;Botafogo;0
+07/02/2000;Corinthians;0;Chapecoense;1
+RODADA 7
+12/02/2000;America;0;Palmeiras;0
+16/02/2000;Ponte Preta;5;Internacional;3
+12/02/2000;Santa Cruz;0;Gremio;3
+14/02/2000;Santos;1;Fluminense;0
+15/02/2000;Sao Paulo;3;Flamengo;3
+16/02/2000;Sport;1;Figueirense;0
+12/02/2000;Vitoria;0;Cruzeiro;3
+14/02/2000;Atletico-MG;0;Coritiba;2
+16/02/2000;Atletico-PR;0;Corinthians;0
+15/02/2000;Botafogo;2;Chapecoense;1
+RODADA 8
+20/02/2000;Internacional;0;America;1
+19/02/2000;Gremio;0;Palmeiras;2
+21/02/2000;Fluminense;0;Ponte Preta;2
+23/02/2000;Flamengo;1;Santa Cruz;0
+20/02/2000;Figueirense;0;Santos;1
+21/02/2000;Cruzeiro;0;Sao Paulo;5
+23/02/2000;Coritiba;0;Sport;3
+21/02/2000;Corinthians;0;Vitoria;2
+19/02/2000;Chapecoense;0;Atletico-MG;1
+20/02/2000;Botafogo;0;Atletico-PR;0
+RODADA 9
+01/03/2000;America;2;Gremio;0
+27/02/2000;Internacional;0;Fluminense;3
+29/02/2000;Palmeiras;0;Flamengo;1
+26/02/2000;Ponte Preta;2;Figueirense;2
+27/02/2000;Santa Cruz;1;Cruzeiro;0
+26/02/2000;Santos;0;Coritiba;5
+01/03/2000;Sao Paulo;0;Corinthians;1
+29/02/2000;Sport;0;Chapecoense;2
+28/02/2000;Vitoria;0;Botafogo;1
+27/02/2000;Atletico-MG;2;Atletico-PR;1
+RODADA 10
+04/03/2000;Fluminense;2;America;1
+08/03/2000;Flamengo;0;Gremio;1
+05/03/2000;Figueirense;2;Internacional;3
+08/03/2000;Cruzeiro;0;Palmeiras;0
+07/03/2000;Coritiba;0;Ponte Preta;3
+08/03/2000;Corinthians;2;Santa Cruz;0
+05/03/2000;Chapecoense;1;Santos;0
+08/03/2000;Botafogo;0;Sao Paulo;3
+04/03/2000;Atletico-PR;0;Sport;1
+07/03/2000;Atletico-MG;1;Vitoria;1
+RODADA 11
+12/03/2000;America;1;Flamengo;0
+15/03/2000;Fluminense;1;Figueirense;0
+11/03/2000;Gremio;1;Cruzeiro;1
+14/03/2000;Internacional;1;Coritiba;2
+11/03/2000;Palmeiras;3;Corinthians;0
+12/03/2000;Ponte Preta;4;Chapecoense;1
+11/03/2000;Santa Cruz;0;Botafogo;0
+13/03/2000;Santos;0;Atletico-PR;2
+12/03/2000;Sao Paulo;1;Atletico-MG;0
+13/03/2000;Sport;3;Vitoria;0
+RODADA 12
+18/03/2000;Figueirense;2;America;1
+22/03/2000;Cruzeiro;1;Flamengo;3
+21/03/2000;Coritiba;0;Fluminense;1
+18/03/2000;Corinthians;1;Gremio;3
+18/03/2000;Chapecoense;2;Internacional;2
+22/03/2000;Botafogo;2;Palmeiras;1
+18/03/2000;Atletico-PR;2;Ponte Preta;2
+18/03/2000;Atletico-MG;0;Santa Cruz;1
+22/03/2000;Vitoria;4;Santos;0
+21/03/2000;Sport;2;Sao Paulo;0
+RODADA 13
+25/03/2000;America;1;Cruzeiro;0
+29/03/2000;Figueirense;1;Coritiba;1
+25/03/2000;Flamengo;4;Corinthians;0
+26/03/2000;Fluminense;0;Chapecoense;1
+26/03/2000;Gremio;3;Botafogo;2
+28/03/2000;Internacional;4;Atletico-PR;2
+29/03/2000;Palmeiras;0;Atletico-MG;0
+27/03/2000;Ponte Preta;0;Vitoria;1
+26/03/2000;Santa Cruz;1;Sport;2
+26/03/2000;Santos;0;Sao Paulo;2
+RODADA 14
+05/04/2000;Coritiba;1;America;3
+04/04/2000;Corinthians;3;Cruzeiro;0
+04/04/2000;Chapecoense;0;Figueirense;0
+05/04/2000;Botafogo;0;Flamengo;1
+05/04/2000;Atletico-PR;0;Fluminense;1
+01/04/2000;Atletico-MG;2;Gremio;1
+03/04/2000;Vitoria;0;Internacional;1
+01/04/2000;Sport;1;Palmeiras;0
+01/04/2000;Sao Paulo;2;Ponte Preta;1
+03/04/2000;Santos;0;Santa Cruz;0
+RODADA 15
+08/04/2000;America;1;Corinthians;0
+12/04/2000;Coritiba;0;Chapecoense;3
+11/04/2000;Cruzeiro;0;Botafogo;0
+09/04/2000;Figueirense;0;Atletico-PR;3
+09/04/2000;Flamengo;1;Atletico-MG;0
+09/04/2000;Fluminense;0;Vitoria;1
+12/04/2000;Gremio;0;Sport;1
+11/04/2000;Internacional;0;Sao Paulo;2
+10/04/2000;Palmeiras;1;Santos;1
+10/04/2000;Ponte Preta;1;Santa Cruz;3
+RODADA 16
+17/04/2000;Chapecoense;1;America;1
+17/04/2000;Botafogo;2;Corinthians;0
+19/04/2000;Atletico-PR;2;Coritiba;0
+19/04/2000;Atletico-MG;1;Cruzeiro;0
+19/04/2000;Vitoria;2;Figueirense;0
+15/04/2000;Sport;0;Flamengo;0
+16/04/2000;Sao Paulo;1;Fluminense;0
+18/04/2000;Santos;0;Gremio;1
+18/04/2000;Santa Cruz;0;Internacional;0
+18/04/2000;Ponte Preta;0;Palmeiras;0
+RODADA 17
+24/04/2000;America;4;Botafogo;3
+26/04/2000;Chapecoense;2;Atletico-PR;0
+24/04/2000;Corinthians;1;Atletico-MG;1
+22/04/2000;Coritiba;3;Vitoria;0
+25/04/2000;Cruzeiro;0;Sport;0
+26/04/2000;Figueirense;0;Sao Paulo;3
+22/04/2000;Flamengo;0;Santos;0
+26/04/2000;Fluminense;1;Santa Cruz;3
+23/04/2000;Gremio;1;Ponte Preta;0
+25/04/2000;Internacional;2;Palmeiras;0
+RODADA 18
+01/05/2000;Atletico-PR;3;America;3
+29/04/2000;Atletico-MG;2;Botafogo;3
+01/05/2000;Vitoria;0;Chapecoense;1
+29/04/2000;Sport;2;Corinthians;0
+01/05/2000;Sao Paulo;2;Coritiba;0
+30/04/2000;Santos;0;Cruzeiro;0
+02/05/2000;Santa Cruz;1;Figueirense;0
+01/05/2000;Ponte Preta;4;Flamengo;0
+01/05/2000;Palmeiras;2;Fluminense;2
+02/05/2000;Internacional;1;Gremio;1
+RODADA 19
+08/05/2000;America;0;Atletico-MG;1
+10/05/2000;Atletico-PR;5;Vitoria;2
+07/05/2000;Botafogo;1;Sport;1
+08/05/2000;Chapecoense;0;Sao Paulo;3
+10/05/2000;Corinthians;2;Santos;3
+07/05/2000;Coritiba;0;Santa Cruz;5
+10/05/2000;Cruzeiro;1;Ponte Preta;3
+10/05/2000;Figueirense;1;Palmeiras;1
+07/05/2000;Flamengo;0;Internacional;0
+08/05/2000;Fluminense;0;Gremio;0
+21/03/2000
+08/03/2000
+15/04/2000
+28/03/2000
+29/01/2000
+27/03/2000
+01/02/2000
+09/01/2000
+12/03/2000
+18/04/2000

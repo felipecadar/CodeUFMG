@@ -1,0 +1,1 @@
+python test_mutation.py > exp_mut.sh;python test_torneio.py > exp_k.sh;python test_elitismo.py > exp_elitismo.sh;python test_pop.py > exp_pop.sh

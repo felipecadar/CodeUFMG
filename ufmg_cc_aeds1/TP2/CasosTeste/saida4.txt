@@ -1,0 +1,484 @@
+1
+Figueirense 3 1 4 4
+America 3 1 3 5
+Flamengo 3 1 3 3
+Ponte Preta 3 1 3 3
+Atletico-PR 3 1 2 3
+Coritiba 3 1 1 2
+Atletico-MG 3 1 1 1
+Chapecoense 3 1 1 1
+Internacional 3 1 1 1
+Botafogo 1 0 0 0
+Santos 1 0 0 0
+Palmeiras 0 0 -1 1
+Cruzeiro 0 0 -1 0
+Santa Cruz 0 0 -1 0
+Sport 0 0 -1 0
+Sao Paulo 0 0 -2 1
+Vitoria 0 0 -3 2
+Corinthians 0 0 -3 0
+Fluminense 0 0 -3 0
+Gremio 0 0 -4 0
+2
+Figueirense 6 2 6 6
+America 6 2 4 8
+Atletico-PR 6 2 4 5
+Botafogo 4 1 2 2
+Internacional 4 1 1 2
+Atletico-MG 4 1 1 1
+Chapecoense 4 1 1 1
+Flamengo 3 1 1 3
+Ponte Preta 3 1 1 3
+Gremio 3 1 -1 3
+Fluminense 3 1 -1 2
+Coritiba 3 1 -2 2
+Santos 2 0 0 0
+Palmeiras 1 0 -1 1
+Sao Paulo 1 0 -2 2
+Vitoria 1 0 -3 3
+Corinthians 1 0 -3 1
+Sport 0 0 -2 2
+Cruzeiro 0 0 -3 0
+Santa Cruz 0 0 -3 0
+3
+Figueirense 7 2 6 6
+Atletico-PR 7 2 4 6
+Botafogo 7 2 4 4
+Atletico-MG 7 2 3 3
+America 6 2 2 8
+Coritiba 6 2 1 7
+Chapecoense 5 1 1 2
+Sao Paulo 4 1 0 4
+Gremio 4 1 -1 4
+Internacional 4 1 -1 2
+Fluminense 4 1 -1 2
+Ponte Preta 3 1 -1 3
+Flamengo 3 1 -2 5
+Santos 3 0 0 0
+Palmeiras 2 0 -1 2
+Vitoria 2 0 -3 3
+Corinthians 2 0 -3 1
+Sport 1 0 -2 2
+Cruzeiro 1 0 -3 0
+Santa Cruz 1 0 -3 0
+4
+Figueirense 8 2 6 7
+Chapecoense 8 2 5 6
+Atletico-MG 8 2 3 3
+Atletico-PR 7 2 2 6
+Botafogo 7 2 2 4
+Gremio 7 2 1 6
+Sao Paulo 7 2 1 5
+Fluminense 7 2 1 4
+America 6 2 1 9
+Coritiba 6 2 -1 7
+Santos 6 1 1 2
+Internacional 5 1 -1 2
+Vitoria 5 1 -2 5
+Sport 4 1 -1 3
+Cruzeiro 4 1 -1 2
+Ponte Preta 3 1 -2 3
+Flamengo 3 1 -6 5
+Corinthians 3 0 -3 2
+Palmeiras 2 0 -2 3
+Santa Cruz 1 0 -4 0
+5
+Botafogo 10 3 7 9
+Atletico-PR 10 3 3 7
+Sao Paulo 10 3 2 7
+Coritiba 9 3 0 9
+Chapecoense 9 2 5 8
+Santos 9 2 4 7
+Atletico-MG 9 2 3 4
+Figueirense 8 2 1 7
+Fluminense 8 2 1 5
+Vitoria 8 2 0 8
+Gremio 7 2 -1 7
+America 6 2 -1 10
+Internacional 6 1 -1 3
+Sport 5 1 -1 4
+Cruzeiro 5 1 -1 4
+Santa Cruz 4 1 -2 3
+Ponte Preta 3 1 -5 5
+Flamengo 3 1 -7 5
+Corinthians 3 0 -4 3
+Palmeiras 2 0 -3 4
+6
+Atletico-PR 13 4 6 10
+Chapecoense 12 3 6 9
+Botafogo 11 3 7 9
+Figueirense 11 3 3 9
+Sao Paulo 11 3 2 7
+Coritiba 10 3 0 9
+Santos 9 2 3 7
+Atletico-MG 9 2 1 4
+Vitoria 9 2 0 8
+Internacional 9 2 0 4
+Sport 8 2 1 6
+Gremio 8 2 -1 7
+Fluminense 8 2 -1 5
+America 7 2 -1 11
+Palmeiras 5 1 -1 8
+Cruzeiro 5 1 -4 4
+Santa Cruz 4 1 -4 5
+Ponte Preta 4 1 -5 6
+Flamengo 4 1 -7 5
+Corinthians 3 0 -5 3
+7
+Botafogo 14 4 8 11
+Atletico-PR 14 4 6 10
+Coritiba 13 4 2 11
+Chapecoense 12 3 5 10
+Santos 12 3 4 8
+Sao Paulo 12 3 2 10
+Gremio 11 3 2 10
+Figueirense 11 3 2 9
+Sport 11 3 2 7
+Atletico-MG 9 2 -1 4
+Internacional 9 2 -2 7
+Vitoria 9 2 -3 8
+America 8 2 -1 11
+Cruzeiro 8 2 -1 7
+Fluminense 8 2 -2 5
+Ponte Preta 7 2 -3 11
+Palmeiras 6 1 -1 8
+Flamengo 5 1 -7 8
+Santa Cruz 4 1 -7 5
+Corinthians 4 0 -5 3
+8
+Botafogo 15 4 8 11
+Sao Paulo 15 4 7 15
+Atletico-PR 15 4 6 10
+Santos 15 4 5 9
+Sport 14 4 5 10
+Coritiba 13 4 -1 11
+Chapecoense 12 3 4 10
+Atletico-MG 12 3 0 5
+Vitoria 12 3 -1 10
+Figueirense 11 3 1 9
+America 11 3 0 12
+Gremio 11 3 0 10
+Ponte Preta 10 3 -1 13
+Palmeiras 9 2 1 10
+Internacional 9 2 -3 7
+Fluminense 8 2 -4 5
+Flamengo 8 2 -6 9
+Cruzeiro 8 2 -6 7
+Santa Cruz 4 1 -8 5
+Corinthians 4 0 -7 3
+9
+Botafogo 18 5 9 12
+Coritiba 16 5 4 16
+Sao Paulo 15 4 6 15
+Chapecoense 15 4 6 12
+Atletico-PR 15 4 5 11
+Atletico-MG 15 4 1 7
+Santos 15 4 0 9
+Sport 14 4 3 10
+America 14 4 2 14
+Figueirense 12 3 1 11
+Vitoria 12 3 -2 10
+Ponte Preta 11 3 -1 15
+Fluminense 11 3 -1 8
+Gremio 11 3 -2 10
+Flamengo 11 3 -5 10
+Palmeiras 9 2 0 10
+Internacional 9 2 -6 7
+Cruzeiro 8 2 -7 7
+Santa Cruz 7 2 -7 6
+Corinthians 7 1 -6 4
+10
+Sao Paulo 18 5 9 18
+Chapecoense 18 5 7 13
+Botafogo 18 5 6 12
+Sport 17 5 4 11
+Coritiba 16 5 1 16
+Atletico-MG 16 4 1 8
+Atletico-PR 15 4 4 11
+Santos 15 4 -1 9
+Ponte Preta 14 4 2 18
+America 14 4 1 15
+Fluminense 14 4 0 10
+Gremio 14 4 -1 11
+Vitoria 13 3 -2 11
+Figueirense 12 3 0 13
+Internacional 12 3 -5 10
+Flamengo 11 3 -6 10
+Palmeiras 10 2 0 10
+Corinthians 10 2 -4 6
+Cruzeiro 9 2 -7 7
+Santa Cruz 7 2 -9 6
+11
+Sao Paulo 21 6 10 19
+Sport 20 6 7 14
+Coritiba 19 6 2 18
+Botafogo 19 5 6 12
+Atletico-PR 18 5 6 13
+Chapecoense 18 5 4 14
+Ponte Preta 17 5 5 22
+America 17 5 2 16
+Fluminense 17 5 1 11
+Atletico-MG 16 4 0 8
+Gremio 15 4 -1 12
+Santos 15 4 -3 9
+Palmeiras 13 3 3 13
+Vitoria 13 3 -5 11
+Figueirense 12 3 -1 13
+Internacional 12 3 -6 11
+Flamengo 11 3 -7 10
+Cruzeiro 10 2 -7 8
+Corinthians 10 2 -7 6
+Santa Cruz 8 2 -9 6
+12
+Sport 23 7 9 16
+Botafogo 22 6 7 14
+Sao Paulo 21 6 8 19
+Fluminense 20 6 2 12
+Coritiba 19 6 1 18
+Atletico-PR 19 5 6 15
+Chapecoense 19 5 4 16
+Ponte Preta 18 5 5 24
+Gremio 18 5 1 15
+America 17 5 1 17
+Vitoria 16 4 -1 15
+Atletico-MG 16 4 -1 8
+Figueirense 15 4 0 15
+Santos 15 4 -7 9
+Flamengo 14 4 -5 13
+Palmeiras 13 3 2 14
+Internacional 13 3 -6 13
+Santa Cruz 11 3 -8 7
+Cruzeiro 10 2 -9 9
+Corinthians 10 2 -9 7
+13
+Sport 26 8 10 18
+Sao Paulo 24 7 10 21
+Botafogo 22 6 6 16
+Chapecoense 22 6 5 17
+Gremio 21 6 2 18
+America 20 6 2 18
+Coritiba 20 6 1 19
+Fluminense 20 6 1 12
+Atletico-PR 19 5 4 17
+Vitoria 19 5 0 16
+Ponte Preta 18 5 4 24
+Flamengo 17 5 -1 17
+Atletico-MG 17 4 -1 8
+Figueirense 16 4 0 16
+Internacional 16 4 -4 17
+Santos 15 4 -9 9
+Palmeiras 14 3 2 14
+Santa Cruz 11 3 -9 8
+Cruzeiro 10 2 -10 9
+Corinthians 10 2 -13 7
+14
+Sport 29 9 11 19
+Sao Paulo 27 8 11 23
+America 23 7 4 21
+Fluminense 23 7 2 13
+Chapecoense 23 6 5 17
+Botafogo 22 6 5 16
+Gremio 21 6 1 19
+Flamengo 20 6 0 18
+Coritiba 20 6 -1 20
+Atletico-MG 20 5 0 10
+Atletico-PR 19 5 3 17
+Vitoria 19 5 -1 16
+Internacional 19 5 -3 18
+Ponte Preta 18 5 3 25
+Figueirense 17 4 0 16
+Santos 16 4 -9 9
+Palmeiras 14 3 1 14
+Corinthians 13 3 -10 10
+Santa Cruz 12 3 -9 8
+Cruzeiro 10 2 -13 9
+15
+Sport 32 10 12 20
+Sao Paulo 30 9 13 25
+America 26 8 5 22
+Chapecoense 26 7 8 20
+Flamengo 23 7 1 19
+Fluminense 23 7 1 13
+Botafogo 23 6 5 16
+Atletico-PR 22 6 6 20
+Vitoria 22 6 0 17
+Gremio 21 6 0 19
+Coritiba 20 6 -4 20
+Atletico-MG 20 5 -1 10
+Internacional 19 5 -5 18
+Ponte Preta 18 5 1 26
+Figueirense 17 4 -3 16
+Santos 17 4 -9 10
+Santa Cruz 15 4 -7 11
+Palmeiras 15 3 1 15
+Corinthians 13 3 -11 10
+Cruzeiro 11 2 -13 9
+16
+Sao Paulo 33 10 14 26
+Sport 33 10 12 20
+America 27 8 5 23
+Chapecoense 27 7 8 21
+Botafogo 26 7 7 18
+Atletico-PR 25 7 8 22
+Vitoria 25 7 2 19
+Gremio 24 7 1 20
+Flamengo 24 7 1 19
+Fluminense 23 7 0 13
+Atletico-MG 23 6 0 11
+Coritiba 20 6 -6 20
+Internacional 20 5 -5 18
+Ponte Preta 19 5 1 26
+Figueirense 17 4 -5 16
+Santos 17 4 -10 10
+Santa Cruz 16 4 -7 11
+Palmeiras 16 3 1 15
+Corinthians 13 3 -13 10
+Cruzeiro 11 2 -14 9
+17
+Sao Paulo 36 11 17 29
+Sport 34 10 12 20
+America 30 9 6 27
+Chapecoense 30 8 10 23
+Gremio 27 8 2 21
+Botafogo 26 7 6 21
+Atletico-PR 25 7 6 22
+Flamengo 25 7 1 19
+Vitoria 25 7 -1 19
+Atletico-MG 24 6 0 12
+Fluminense 23 7 -2 14
+Coritiba 23 7 -3 23
+Internacional 23 6 -3 20
+Ponte Preta 19 5 0 26
+Santa Cruz 19 5 -5 14
+Santos 18 4 -10 10
+Figueirense 17 4 -8 16
+Palmeiras 16 3 -1 15
+Corinthians 14 3 -13 11
+Cruzeiro 12 2 -14 9
+18
+Sao Paulo 39 12 19 31
+Sport 37 11 14 22
+Chapecoense 33 9 11 24
+America 31 9 6 30
+Botafogo 29 8 7 24
+Gremio 28 8 2 22
+Atletico-PR 26 7 6 25
+Vitoria 25 7 -2 19
+Flamengo 25 7 -3 19
+Fluminense 24 7 -2 16
+Atletico-MG 24 6 -1 14
+Internacional 24 6 -3 21
+Coritiba 23 7 -5 23
+Ponte Preta 22 6 4 30
+Santa Cruz 22 6 -4 15
+Santos 19 4 -10 10
+Figueirense 17 4 -9 16
+Palmeiras 17 3 -1 17
+Corinthians 14 3 -15 11
+Cruzeiro 13 2 -14 9
+19
+Sao Paulo 42 13 22 34
+Sport 38 11 14 23
+Chapecoense 33 9 8 24
+America 31 9 5 30
+Botafogo 30 8 7 25
+Atletico-PR 29 8 9 30
+Gremio 29 8 2 22
+Atletico-MG 27 7 0 15
+Flamengo 26 7 -3 19
+Ponte Preta 25 7 6 33
+Santa Cruz 25 7 1 20
+Fluminense 25 7 -2 16
+Vitoria 25 7 -5 21
+Internacional 25 6 -3 21
+Coritiba 23 7 -10 23
+Santos 22 5 -9 13
+Figueirense 18 4 -9 17
+Palmeiras 18 3 -1 18
+Corinthians 14 3 -16 13
+Cruzeiro 13 2 -16 10
+21/03/2000;Coritiba;0;Fluminense;1
+21/03/2000;Sport;2;Sao Paulo;0
+08/03/2000;Flamengo;0;Gremio;1
+08/03/2000;Cruzeiro;0;Palmeiras;0
+08/03/2000;Corinthians;2;Santa Cruz;0
+08/03/2000;Botafogo;0;Sao Paulo;3
+15/04/2000;Sport;0;Flamengo;0
+28/03/2000;Internacional;4;Atletico-PR;2
+29/01/2000;Vitoria;3;Gremio;1
+29/01/2000;Atletico-PR;1;Flamengo;0
+29/01/2000;Chapecoense;2;Cruzeiro;2
+27/03/2000;Ponte Preta;0;Vitoria;1
+12/01/2000;Ponte Preta;0;Botafogo;2
+12/01/2000;Internacional;1;Corinthians;1
+12/01/2000;Gremio;3;Coritiba;0
+12/01/2000;Flamengo;0;Figueirense;2
+24/01/2000;Ponte Preta;0;Sport;1
+24/01/2000;Fluminense;2;Botafogo;0
+24/01/2000;Flamengo;0;Chapecoense;4
+02/01/2000;Figueirense;4;Gremio;0
+21/02/2000;Fluminense;0;Ponte Preta;2
+21/02/2000;Cruzeiro;0;Sao Paulo;5
+21/02/2000;Corinthians;0;Vitoria;2
+05/03/2000;Figueirense;2;Internacional;3
+05/03/2000;Chapecoense;1;Santos;0
+01/05/2000;Atletico-PR;3;America;3
+01/05/2000;Vitoria;0;Chapecoense;1
+01/05/2000;Sao Paulo;2;Coritiba;0
+01/05/2000;Ponte Preta;4;Flamengo;0
+01/05/2000;Palmeiras;2;Fluminense;2
+10/01/2000;Sport;2;America;3
+10/01/2000;Santa Cruz;0;Atletico-PR;2
+08/04/2000;America;1;Corinthians;0
+07/05/2000;Botafogo;1;Sport;1
+07/05/2000;Coritiba;0;Santa Cruz;5
+07/05/2000;Flamengo;0;Internacional;0
+01/04/2000;Atletico-MG;2;Gremio;1
+01/04/2000;Sport;1;Palmeiras;0
+01/04/2000;Sao Paulo;2;Ponte Preta;1
+20/02/2000;Internacional;0;America;1
+20/02/2000;Figueirense;0;Santos;1
+20/02/2000;Botafogo;0;Atletico-PR;0
+30/01/2000;Santos;5;Ponte Preta;2
+30/01/2000;Corinthians;1;Coritiba;2
+12/04/2000;Coritiba;0;Chapecoense;3
+12/04/2000;Gremio;0;Sport;1
+05/04/2000;Coritiba;1;America;3
+05/04/2000;Botafogo;0;Flamengo;1
+05/04/2000;Atletico-PR;0;Fluminense;1
+03/04/2000;Vitoria;0;Internacional;1
+03/04/2000;Santos;0;Santa Cruz;0
+09/02/2000;Ponte Preta;1;America;1
+09/02/2000;Flamengo;0;Vitoria;0
+28/02/2000;Vitoria;0;Botafogo;1
+02/05/2000;Santa Cruz;1;Figueirense;0
+02/05/2000;Internacional;1;Gremio;1
+29/04/2000;Atletico-MG;2;Botafogo;3
+29/04/2000;Sport;2;Corinthians;0
+12/02/2000;America;0;Palmeiras;0
+12/02/2000;Santa Cruz;0;Gremio;3
+12/02/2000;Vitoria;0;Cruzeiro;3
+22/04/2000;Coritiba;3;Vitoria;0
+22/04/2000;Flamengo;0;Santos;0
+18/03/2000;Figueirense;2;America;1
+18/03/2000;Corinthians;1;Gremio;3
+18/03/2000;Chapecoense;2;Internacional;2
+18/03/2000;Atletico-PR;2;Ponte Preta;2
+18/03/2000;Atletico-MG;0;Santa Cruz;1
+01/03/2000;America;2;Gremio;0
+01/03/2000;Sao Paulo;0;Corinthians;1
+31/01/2000;America;1;Santa Cruz;3
+31/01/2000;Atletico-MG;1;Fluminense;1
+31/01/2000;Botafogo;5;Figueirense;0
+15/03/2000;Fluminense;1;Figueirense;0
+01/02/2000;Sao Paulo;2;Palmeiras;1
+01/02/2000;Sport;1;Internacional;1
+09/01/2000;Sao Paulo;1;Vitoria;1
+09/01/2000;Santos;0;Atletico-MG;0
+09/01/2000;Palmeiras;0;Chapecoense;0
+12/03/2000;America;1;Flamengo;0
+12/03/2000;Ponte Preta;4;Chapecoense;1
+12/03/2000;Sao Paulo;1;Atletico-MG;0
+18/04/2000;Santos;0;Gremio;1
+18/04/2000;Santa Cruz;0;Internacional;0
+18/04/2000;Ponte Preta;0;Palmeiras;0

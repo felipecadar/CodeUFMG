@@ -1,0 +1,7 @@
+run_*.sh
+sensitivity_analysis/
+log/
+.vscode/
+src/__pycache__/
+figs/
+*.gif
